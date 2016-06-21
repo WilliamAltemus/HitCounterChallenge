@@ -1,0 +1,8 @@
+This is a windows desktop project file written in Visual Studio Express 2010. 
+If you have VS installed, simply execute the solution file and press F5 to run the program.
+Click the Browse button and find the text data file you wish to get a hit count from.
+Once you have selected the data file, click the Calculate Hit Count button.
+After a moment you will see a graph that shows the filtered data, the locations in the data where hits were detected, and the Hit Count box will display the number of hits detected.
+Expand the size of the window to get a better view of the graph.
+
+William
