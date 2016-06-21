@@ -1,1 +1,20 @@
-This
+This is a project file written for the Netduino Plus 1 microcontroller.
+It is a ported version of the PC version of my hit detection algorithm.
+There are a few methods that are not fleshed out, but it will compile on the Netduino Plus 1.
+
+Things to be implemented
+-------------------------
+method: Main
+setup pins assignment
+init I2C
+init display
+test and init the accel
+
+method: GetAccelData
+pull data from accel
+
+method: UpdateDisplay
+print numHits to the display
+
+method: BlinkError
+blink the on-board LED in some fashion to signal an error
